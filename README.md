@@ -1,3 +1,12 @@
+# 깃 추가
+
+1. git init \
+2. git add README.md \
+3. git commit -m "first commit" \
+4. git branch -M main \
+5. git remote add origin https://github.com/ljh2194/REACT_TYPESCRIPT.git \
+6. git push -u origin main \
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
